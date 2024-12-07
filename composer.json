@@ -1,0 +1,10 @@
+{
+    "name": "renaudbillen/rb_prettyblocks",
+    "description": "Blocks Library for PrettyBlocks",
+    "type": "prestashop-module",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "proprietary",
+    "minimum-stability": "dev"
+}
